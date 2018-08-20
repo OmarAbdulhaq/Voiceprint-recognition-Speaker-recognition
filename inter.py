@@ -78,10 +78,10 @@ def register(video_path, abnormal='SWTZ_SWYC'):  # 注册  时间---切出音频
 
 if __name__ == '__main__':
     # so = FeatureCompute()
-    # register(os.path.join(register_data_path, '1529374505292.wav'))
+    # register(os.path.join(register_data_path, '152********.wav'))
     # 验证的时候用户的声纹图片需要存起来么。
-    feature_check(os.path.join(register_data_path, '13301168738.wav'))
-    # app.run(host='192.168.99.214', port=18001)
+    feature_check(os.path.join(register_data_path, '133********.wav'))
+    # app.run(host='192.***.***.***', port=18001)
     # app.run(host='127.0.0.1', port=18001)
 
 
