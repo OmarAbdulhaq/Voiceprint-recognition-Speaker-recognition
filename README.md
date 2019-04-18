@@ -2,7 +2,7 @@
 
 It is a complete project of  voiceprint recognition or speaker recognition.The trained models my not be uploaded except the best one.  
 So if you are lazy enougth, you can dirrectly run my model, maybe, you should only exchange the model path to satisfy your system.
-Noting: the program was wirtten by hand, so may existing some chinses notes in my code. If your system is Contos7.x, u should delete all chineses notes, because Centos may not support chinese. 
+Noting: the program was wirtten by hand, so may existing some chinses notes in my code. If your system is Contos7.x, u should delete all chineses notes, because Centos may not support chinese. And very very welcome to my mailbox: primtee_nxg@163.com.
 
 To run my model, some dependency should installed ：
  
