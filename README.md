@@ -6,11 +6,13 @@ Noting: the program was wirtten by hand, so may existing some chinses notes in m
 
 To run my model, some dependency should installed ：
  
+ 
  MXNET               1.2.0
  PyMySQL             0.9.0
  opencv-python       3.4.1.15
  Pillow              5.2.0
  pydub               0.22.1
+ 
  
  example: 
          #  input:13301234567.wav
