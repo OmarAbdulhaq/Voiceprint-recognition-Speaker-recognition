@@ -3,8 +3,7 @@ from flask import Flask
 from flask import request, jsonify
 # from tools.sql_code import SQLCODE
 # from tools.db_tool import MySQLPro
-from voice_recognize.extract_feature.feature_compute import return_results
-from voice_recognize.extract_feature.feature_compute import get_evaluate_enrollment_feature
+from feature_compute import return_results, get_evaluate_enrollment_feature
 app = Flask(__name__)
 
 register_data_path = r'F:\voiceprint\data\register'
@@ -83,13 +82,3 @@ if __name__ == '__main__':
     feature_check(os.path.join(register_data_path, '133********.wav'))
     # app.run(host='192.***.***.***', port=18001)
     # app.run(host='127.0.0.1', port=18001)
-
-
-
-
-
-
-
-
-
-
