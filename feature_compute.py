@@ -366,16 +366,3 @@ def return_results(saved_feature_path, evaluated_feature):
 # gege = np.array([10, 2, 30, 14, 55, 6])
 # max_s = gege.max()
 # print('max_s:', max_s)
-
-
-
-
-
-
-
-
-
-
-
-
-
